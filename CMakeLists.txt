@@ -8,6 +8,9 @@ set(CMAKE_CXX_STANDARD 20)
 set (_HEADER_
   ./command.h
   ./hft_prob_1.h
+  ./hft_prob_2.h
+  ./hft_prob_3.h
+  ./hft_prob_4.h
 )
 
 set (_SOURCES_
